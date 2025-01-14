@@ -11,7 +11,7 @@ Implemented secure user authentication using for session management. Users can s
 Developed an Employee Management System with CRUD (Create, Read, Update, Delete) functionality. Managers can add, edit, and remove employee records.
 
 ## Technologies Used
-HTML
-CSS
-JAVASCRIPT
-PHP
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
